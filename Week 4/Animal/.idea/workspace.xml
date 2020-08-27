@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42fa8723-3e16-4355-8d39-16ba86f5acc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Animal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Formula/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 2/Formula/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 2/Module 2 Quiz (4-6) VER LA 4!.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3/Module 3 Quiz (1-4) VER 1!.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3/Module 3 Quiz (5-7) VER 5!.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week 3/animals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week 3/animals/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="go build Animal/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -81,27 +83,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597928795716">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="202" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597928795716" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1597932447723">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1598540140521">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597932447723" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1597932447722">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598540140521" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1598540140520">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597932447722" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1597932447722">
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598540140520" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1598540140519">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597932447722" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1597932447723">
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598540140519" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1598540140520">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597932447723" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598540140520" />
   </component>
 </project>
